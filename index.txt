@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6C36-6A7B
+
+ Directory of C:\Users\hp\Desktop\javaProject
+
+30-10-2020  23:59    <DIR>          .
+30-10-2020  23:59    <DIR>          ..
+30-10-2020  23:36               121 HelloReadme
+30-10-2020  23:59               683 HelloWorld.class
+30-10-2020  22:05               152 HelloWorld.java
+30-10-2020  23:59                 0 index.txt
+30-10-2020  23:11               455 readme.txt
+30-10-2020  23:36               553 readme1.txt
+               6 File(s)          1,964 bytes
+               2 Dir(s)  205,450,682,368 bytes free
